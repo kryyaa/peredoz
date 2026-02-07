@@ -1,7 +1,7 @@
 # peredoz
 
 > [!NOTE]
-> *как настроить*
+> **как настроить**
 >
 > 1. заходим на https://buzzheavier.com/login и нажимаем sign up
 > 2. копируем айди
